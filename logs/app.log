@@ -1,0 +1,546 @@
+2024-10-02 15:19:08 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-02 15:19:08 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-02 15:19:08 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-02 15:19:08 [main] ERROR org.example.service.ArrayProcessingService - Некорректный алгоритм сортировки: quickSort
+2024-10-02 15:22:09 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-02 15:22:09 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-02 15:22:09 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-02 15:22:09 [main] ERROR org.example.service.ArrayProcessingService - Некорректный алгоритм сортировки: quickSort
+2024-10-02 15:22:41 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-02 15:22:41 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-02 15:22:41 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-02 15:22:41 [main] ERROR org.example.service.ArrayProcessingService - Некорректный алгоритм сортировки: bubbleSort
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [1, 2, 3]
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [1, 2, 3]
+2024-10-02 15:38:54 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [1, 2, 3]
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-02 15:40:21 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-02 15:40:21 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-02 19:25:56 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск максимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-02 19:25:56 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск минимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-02 20:57:47 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск максимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-06 18:36:04 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-06 18:36:05 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-06 18:36:05 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-06 20:31:15 [main] INFO  org.example.Main - Program has started
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-06 20:31:15 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-06 20:31:15 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-06 20:32:01 [main] INFO  org.example.Main - Начало работы.
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-06 20:32:01 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-06 20:32:01 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-06 20:40:22 [main] INFO  org.example.Main - Начало работы.
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-06 20:40:22 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-06 20:40:22 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-06 20:52:17 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/invalidData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\invalidData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileInvalidData(ArrayFileReaderTest.java:26) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-06 20:52:17 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/validData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\validData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileValidData(ArrayFileReaderTest.java:15) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 11:56:16 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/invalidData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\invalidData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileInvalidData(ArrayFileReaderTest.java:26) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 11:56:16 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/validData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\validData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileValidData(ArrayFileReaderTest.java:15) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 12:16:04 [main] INFO  org.example.Main - Начало работы.
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-09 12:16:04 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-09 12:16:04 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-09 12:30:42 [main] INFO  org.example.Main - Начало работы.
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-09 12:30:42 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-09 12:30:42 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-09 12:44:36 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/invalidData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\invalidData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileInvalidData(ArrayFileReaderTest.java:26) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 12:44:36 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/validData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\validData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileValidData(ArrayFileReaderTest.java:15) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 12:49:15 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/invalidData.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\invalidData.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileInvalidData(ArrayFileReaderTest.java:26) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 12:49:15 [main] ERROR org.example.service.ArrayFileReader - Ошибка чтения файла: src/test/resources/data/data.txt
+java.nio.file.NoSuchFileException: src\test\resources\data\data.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:119) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:309) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:369) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4138) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4233) ~[?:?]
+	at org.example.service.ArrayFileReader.readArrayFromFile(ArrayFileReader.java:23) ~[classes/:?]
+	at org.example.service.ArrayFileReaderTest.testReadArrayFromFileValidData(ArrayFileReaderTest.java:15) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) ~[testng-rt.jar:?]
+2024-10-09 12:55:59 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-09 12:55:59 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-09 12:55:59 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 12:55:59 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-09 12:59:10 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-09 12:59:10 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-09 12:59:10 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 12:59:10 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-09 12:59:36 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-09 12:59:36 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-09 12:59:36 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 12:59:36 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-09 13:00:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-09 13:00:38 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-09 13:00:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: -1, -2, -3
+2024-10-09 13:00:38 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: -1, -2, -3
+2024-10-09 13:00:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 13:00:38 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-09 13:00:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1,   2 ,   3
+2024-10-09 13:00:38 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1,   2 ,   3
+2024-10-09 13:01:44 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-09 13:01:44 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-09 13:01:45 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: -1, -2, -3
+2024-10-09 13:01:45 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: -1, -2, -3
+2024-10-09 13:01:45 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 13:01:45 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-09 13:01:57 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск максимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-09 13:01:57 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск минимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-09 13:01:57 [main] INFO  org.example.service.ArrayServiceWithStreams - Сумма элементов массива: 6
+2024-10-09 13:01:57 [main] INFO  org.example.service.ArrayServiceWithStreams - Замена элементов массива по условию: меньше 3, заменяем на 0
+2024-10-09 13:01:57 [main] INFO  org.example.service.ArrayServiceWithStreams - Массив после замены элементов: [5, 3, 0, 4, 0]
+2024-10-09 13:02:35 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 3, 8, 4, 2]
+2024-10-09 13:02:35 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [2, 3, 4, 5, 8]
+2024-10-09 13:02:35 [main] INFO  org.example.service.ArraySorter - Начало сортировки вставками: [5, 3, 8, 4, 2]
+2024-10-09 13:02:35 [main] INFO  org.example.service.ArraySorter - Сортировка вставками завершена: [2, 3, 4, 5, 8]
+2024-10-09 13:02:35 [main] INFO  org.example.service.ArraySorter - Начало сортировки выбором: [5, 3, 8, 4, 2]
+2024-10-09 13:02:35 [main] INFO  org.example.service.ArraySorter - Сортировка выбором завершена: [2, 3, 4, 5, 8]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 3, -8, 4, 2]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [-8, 2, 3, 4, 5]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: []
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: []
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Начало сортировки вставками: [5, 3, -8, 4, 2]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Сортировка вставками завершена: [-8, 2, 3, 4, 5]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Начало сортировки вставками: [-5, -3, -8, -4, -2]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Сортировка вставками завершена: [-8, -5, -4, -3, -2]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Начало сортировки выбором: [5, 3, -8, 4, 2]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Сортировка выбором завершена: [-8, 2, 3, 4, 5]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Начало сортировки выбором: [1, 1, 1, 1]
+2024-10-09 13:08:40 [main] INFO  org.example.service.ArraySorter - Сортировка выбором завершена: [1, 1, 1, 1]
+2024-10-09 13:19:38 [main] INFO  org.example.Main - Начало работы.
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-09 13:19:38 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 7, 8, z
+2024-10-09 13:19:38 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 7, 8, z
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [1, 2, 3]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [1, 2, 3]
+2024-10-09 13:19:38 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [1, 2, 3]
+2024-10-09 13:20:52 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-09 13:20:52 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-09 13:20:52 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: -1, -2, -3
+2024-10-09 13:20:52 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: -1, -2, -3
+2024-10-09 13:20:52 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-09 13:20:52 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-10 18:39:10 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-10 18:39:10 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-10 18:39:10 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: -1, -2, -3
+2024-10-10 18:39:10 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: -1, -2, -3
+2024-10-10 18:39:10 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-10 18:39:10 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-10 18:39:16 [main] INFO  org.example.Main - Начало работы.
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-10 18:39:16 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 7, 8, z
+2024-10-10 18:39:16 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 7, 8, z
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [1, 2, 3]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [1, 2, 3]
+2024-10-10 18:39:16 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [1, 2, 3]
+2024-10-10 19:11:35 [main] INFO  org.example.Main - Начало работы.
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-10 19:11:35 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 7, 8, z
+2024-10-10 19:11:35 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 7, 8, z
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [1, 2, 3]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [1, 2, 3]
+2024-10-10 19:11:35 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [1, 2, 3]
+2024-10-10 19:11:47 [main] INFO  org.example.Main - Начало работы.
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: a, b, c
+2024-10-10 19:11:47 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: a, b, c
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 5, 4, 6
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 5, 4, 6
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 7, 8, z
+2024-10-10 19:11:47 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 7, 8, z
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [5, 4, 6]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 4, 6]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [4, 5, 6]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [4, 5, 6]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayProcessingService - Массив успешно прочитан из файла: [1, 2, 3]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayProcessingService - Выполняется пузырьковая сортировка.
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [1, 2, 3]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [1, 2, 3]
+2024-10-10 19:11:47 [main] INFO  org.example.service.ArrayProcessingService - Отсортированный массив: [1, 2, 3]
+2024-10-10 19:12:03 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, z
+2024-10-10 19:12:03 [main] WARN  org.example.service.ArrayFileReader - Некорректная строка: 1, 2, z
+2024-10-10 19:12:03 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: -1, -2, -3
+2024-10-10 19:12:03 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: -1, -2, -3
+2024-10-10 19:12:03 [main] INFO  org.example.service.ArrayFileReader - Чтение строки: 1, 2, 3
+2024-10-10 19:12:03 [main] INFO  org.example.service.ArrayFileReader - Корректная строка найдена: 1, 2, 3
+2024-10-10 19:12:19 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск максимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-10 19:12:19 [main] INFO  org.example.service.ArrayServiceWithStreams - Поиск минимального значения в массиве: [5, 3, -8, 4, 2]
+2024-10-10 19:12:19 [main] INFO  org.example.service.ArrayServiceWithStreams - Сумма элементов массива: 6
+2024-10-10 19:12:19 [main] INFO  org.example.service.ArrayServiceWithStreams - Замена элементов массива по условию: меньше 3, заменяем на 0
+2024-10-10 19:12:19 [main] INFO  org.example.service.ArrayServiceWithStreams - Массив после замены элементов: [5, 3, 0, 4, 0]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: [5, 3, -8, 4, 2]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: [-8, 2, 3, 4, 5]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Начало пузырьковой сортировки: []
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Пузырьковая сортировка завершена: []
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Начало сортировки вставками: [5, 3, -8, 4, 2]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Сортировка вставками завершена: [-8, 2, 3, 4, 5]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Начало сортировки вставками: [-5, -3, -8, -4, -2]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Сортировка вставками завершена: [-8, -5, -4, -3, -2]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Начало сортировки выбором: [5, 3, -8, 4, 2]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Сортировка выбором завершена: [-8, 2, 3, 4, 5]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Начало сортировки выбором: [1, 1, 1, 1]
+2024-10-10 19:12:34 [main] INFO  org.example.service.ArraySorter - Сортировка выбором завершена: [1, 1, 1, 1]
